@@ -363,7 +363,6 @@ coldact: {
   backgroundColor: '#d9d9d9',
   padding: 20,
   width: 150,
-  // height: Dimensions.get('window').height / 4,
   borderRadius: 10,
 },
 takenButton: {
@@ -416,7 +415,6 @@ ibuprofen: {
   backgroundColor: '#d9d9d9',
   padding: 20,
   width: 150,
-  // height: Dimensions.get('window').height / 4,
   borderRadius: 10,
   marginHorizontal: 10,
 },
